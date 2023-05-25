@@ -4,7 +4,7 @@ const Header = () => {
   return (
     <div className='main-header' style={{display:"flex", justifyContent:"space-around"}}>
    <div className='div1-left' style={{display:"flex", backgroundColor:"lavender"}}>
-    <div>1</div>
+    <div></div>
     <div>2</div>
    </div>
 
